@@ -1,4 +1,4 @@
-# Elite-Selfbot-V2
+# Elite Selfbot 
 The best discord selfbot with nuking feature exist.
 
 
